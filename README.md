@@ -41,7 +41,7 @@ Built over 9 days during Spring Break 2025, with each day focused on a different
 - Day 4–6: API Development and EF Core Integration  
 - Day 7–9: Angular Frontend and Deployment
 
-Development log is being recorded [here](https://docs.google.com/document/d/e/2PACX-1vRXySAFKBEzusBs0Zb_a0mBQDmBVMpuaxNJNOPLMmgz-ypwHB70QYQu9G5py6cIMMmLYQHokDAi6qaK/pub)  
+Development log is being recorded [here](https://docs.google.com/document/d/1HmpJuSzzO_oh3IDfeNNfstMAsbuNh0-NHO0qXeTs9Io/edit?usp=sharing)  
 
 ---
 
